@@ -40,6 +40,8 @@ client.on('message', message =>{
 
     } else if (command === 'embed') {
         client.command.get('embed').execute(message, args, Discord);
+    } else if(command === 'help') {
+        client.command.get('help').execute(message,args,Discord);
     }
 
 });
