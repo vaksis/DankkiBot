@@ -40,6 +40,8 @@ client.on('message', message =>{
         client.command.get('help').execute(message,args,Discord);
     } else if(command === 'rules') {
         client.command.get('rules').execute(message,args,Discord);
+    } else if(command === 'button') {
+        client.command.get('button').execute(message,args,Discord);
     }
 
 });
