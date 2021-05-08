@@ -42,6 +42,10 @@ client.on('message', message =>{
         client.command.get('rules').execute(message,args,Discord);
     } else if(command === 'button') {
         client.command.get('button').execute(message,args,Discord);
+    } else if(command === 'play') {
+        client.command.get('play').execute(message, args, Discord);
+    } else if(command === 'leave') {
+        client.command.get('leave').execute(message, args, Discord);
     }
 
 });
