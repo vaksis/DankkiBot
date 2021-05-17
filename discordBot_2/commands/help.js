@@ -7,9 +7,14 @@ module.exports = {
         .setTitle('Help')
         .setDescription('bot commands')
         .addFields(
-            {name: 'ping_command', value: '-ping'},
-            {name: 'github', value: '-github'},
-            {name: 'embed', value: '-embed'}
+            {name: 'ping command', value: '_ping'},
+            {name: 'github command', value: '_github'},
+            {name: 'embed command', value: '_embed'},
+            {name: 'play command', value: '_play {song link}/{song name}'},
+            {name: 'leave command', value: '_leave'},
+            {name: 'Rules command', value: '_rules'},
+            {name: 'Button command', value: '_button'}
+
         )
 
         .setImage('https://mk0droplrg5q83m5xg0r.kinstacdn.com/wp-content/uploads/2020/06/iconfinder_discord_2308078-512x400.png')
