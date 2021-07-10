@@ -6,7 +6,7 @@ module.exports = {
 
         if (!voiceChannel) return message.channel.send('You have to be in the voice channel to stop playing the music');
         await voiceChannel.leave();
-        await message.channel.send('leaving the voice cahnnel');
+        await message.channel.send('leaving the voice channel');
     }
 
 }
