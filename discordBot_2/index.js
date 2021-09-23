@@ -30,16 +30,8 @@ client.on('message', message =>{
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
 
-    if(command === 'ping'){
-        client.command.get('ping').execute(message, args);
-    } else if (command === 'github'){
-        client.command.get('github').execute(message, args);
-    } else if (command === 'embed') {
-        client.command.get('embed').execute(message, args, Discord);
-    } else if(command === 'help') {
-        client.command.get('help').execute(message,args,Discord);
-    } else if(command === 'rules') {
-        client.command.get('rules').execute(message,args,Discord);
+    if(command === 'help'){
+        client.command.get('help').execute(message, args);
     } else if(command === 'button') {
         client.command.get('button').execute(message,args,Discord);
     } else if(command === 'play') {
@@ -47,7 +39,6 @@ client.on('message', message =>{
     } else if(command === 'leave') {
         client.command.get('leave').execute(message, args, Discord);
     }
-
 });
 
 client.login(config.token);
