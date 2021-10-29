@@ -4,6 +4,6 @@ Install framework first by writing:
 
 `npm install discord.js`
 
-how to startup bot
+Start up app by writing:
 
-write `node .`
+`node .`
