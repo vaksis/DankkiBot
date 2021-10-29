@@ -1,9 +1,19 @@
-# DiscordJSBot
+# DankkiBot 
 
-Install framework first by writing:
+## Getting started
+
+1. Clone the repo
+
+`https://github.com/vaksis/DankkiBot.git`
+
+2. Locate yourself into right directory
+
+`DankkiBot/discordBot_2/`
+
+3. Install framework first by writing:
 
 `npm install discord.js`
 
-Start up application by writing:
+4. Run application
 
 `node .`
