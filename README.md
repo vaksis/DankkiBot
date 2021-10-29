@@ -1,5 +1,10 @@
 # DankkiBot 
 
+## Description
+
+This Discord bot is build by using discord.js framework.
+The application dosen't do much right now but it will get some more features by the time goes.
+
 ## Installation instructions
 
 1. Clone the repo
