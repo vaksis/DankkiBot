@@ -25,7 +25,8 @@ The application dosen't do much right now but it will get some more features by 
 
 ## Authors
 
-* **Olivia** - *CEO of the project, bug fixes, and all the development work* 
+* **Olivia** - *CEO of the project, bug fixes, code review, and continuing development.* 
+* **Samu** - *Bug fixes, and continuing development.*
 
 ## Acknowledgments
 
