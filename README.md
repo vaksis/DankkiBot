@@ -26,3 +26,7 @@ The application dosen't do much right now but it will get some more features by 
 ## Authors
 
 * **Olivia** - *CEO of the project, bug fixes, and all the development work* 
+
+## Acknowledgments
+
+If you want to contribute on this project, contact me on Discord: vaksis#9716
