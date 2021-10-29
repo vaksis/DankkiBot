@@ -22,3 +22,7 @@ The application dosen't do much right now but it will get some more features by 
 4. Run application
 
 `node .`
+
+## Authors
+
+**Olivia** - *CEO of the project, bug fixes, and all the development work* 
