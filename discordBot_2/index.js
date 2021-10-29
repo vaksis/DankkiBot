@@ -6,7 +6,7 @@ const client = new Discord.Client();
 
 const fs = require('fs');
 
-const prefix = "_";
+const prefix = ".";
 
 client.command = new Discord.Collection();
 
