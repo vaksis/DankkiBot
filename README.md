@@ -1,6 +1,6 @@
 # DankkiBot 
 
-## Getting started
+## Instructions for installing
 
 1. Clone the repo
 
