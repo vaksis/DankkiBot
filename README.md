@@ -30,4 +30,3 @@ The application dosen't do much right now but it will get some more features by 
 
 ## Acknowledgments
 
-If you want to contribute on this project, contact me on Discord: vaksis#9716
